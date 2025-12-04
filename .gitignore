@@ -1,0 +1,16 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# Colcon metadata
+.colcon/
+
+# C/C++ build files
+*.o
+*.so
+*.a
+
+# System cruft
+.DS_Store
+Thumbs.db
